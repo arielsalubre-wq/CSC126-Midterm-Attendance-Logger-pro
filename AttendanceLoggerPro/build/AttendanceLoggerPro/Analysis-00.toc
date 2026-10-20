@@ -1,0 +1,4099 @@
+(['C:\\Users\\Ariel Salubre\\Documents\\Default '
+  'Project\\AttendanceLoggerPro\\AttendanceApp.py'],
+ ['C:\\Users\\Ariel Salubre\\Documents\\Default Project\\AttendanceLoggerPro'],
+ [],
+ [('C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_pyinstaller',
+   0),
+  ('C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [('cv2\\Error\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\Error\\__init__.pyi',
+   'DATA'),
+  ('cv2\\LICENSE-3RD-PARTY.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\LICENSE-3RD-PARTY.txt',
+   'DATA'),
+  ('cv2\\LICENSE.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\LICENSE.txt',
+   'DATA'),
+  ('cv2\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\__init__.pyi',
+   'DATA'),
+  ('cv2\\aruco\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\aruco\\__init__.pyi',
+   'DATA'),
+  ('cv2\\barcode\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\barcode\\__init__.pyi',
+   'DATA'),
+  ('cv2\\bgsegm\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\bgsegm\\__init__.pyi',
+   'DATA'),
+  ('cv2\\bioinspired\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\bioinspired\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ccm\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ccm\\__init__.pyi',
+   'DATA'),
+  ('cv2\\colored_kinfu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\colored_kinfu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\cuda\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\cuda\\__init__.pyi',
+   'DATA'),
+  ('cv2\\data\\haarcascade_eye.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_eye.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_eye_tree_eyeglasses.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_eye_tree_eyeglasses.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalcatface.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalcatface.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalcatface_extended.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalcatface_extended.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt2.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt2.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt_tree.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt_tree.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_default.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_default.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_fullbody.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_fullbody.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_lefteye_2splits.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_lefteye_2splits.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_license_plate_rus_16stages.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_license_plate_rus_16stages.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_lowerbody.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_lowerbody.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_profileface.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_profileface.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_righteye_2splits.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_righteye_2splits.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_russian_plate_number.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_russian_plate_number.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_smile.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_smile.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_upperbody.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_upperbody.xml',
+   'DATA'),
+  ('cv2\\datasets\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\datasets\\__init__.pyi',
+   'DATA'),
+  ('cv2\\detail\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\detail\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dnn\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dnn\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dnn_superres\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dnn_superres\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dpm\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dpm\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dynafu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dynafu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\face\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\face\\__init__.pyi',
+   'DATA'),
+  ('cv2\\fisheye\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\fisheye\\__init__.pyi',
+   'DATA'),
+  ('cv2\\flann\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\flann\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ft\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ft\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\cpu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\cpu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\fluid\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\fluid\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\ocl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\ocl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ie\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ie\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ie\\detail\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ie\\detail\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\imgproc\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\imgproc\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\imgproc\\fluid\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\imgproc\\fluid\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\oak\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\oak\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\onnx\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\onnx\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\onnx\\ep\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\onnx\\ep\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ot\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ot\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ot\\cpu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ot\\cpu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ov\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ov\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\own\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\own\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\own\\detail\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\own\\detail\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\render\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\render\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\render\\ocv\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\render\\ocv\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\streaming\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\streaming\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\video\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\video\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\draw\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\draw\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\gst\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\gst\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\onevpl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\onevpl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\hfs\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\hfs\\__init__.pyi',
+   'DATA'),
+  ('cv2\\img_hash\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\img_hash\\__init__.pyi',
+   'DATA'),
+  ('cv2\\instr\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\instr\\__init__.pyi',
+   'DATA'),
+  ('cv2\\intensity_transform\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\intensity_transform\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ipp\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ipp\\__init__.pyi',
+   'DATA'),
+  ('cv2\\kinfu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\kinfu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\large_kinfu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\large_kinfu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\legacy\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\legacy\\__init__.pyi',
+   'DATA'),
+  ('cv2\\line_descriptor\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\line_descriptor\\__init__.pyi',
+   'DATA'),
+  ('cv2\\linemod\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\linemod\\__init__.pyi',
+   'DATA'),
+  ('cv2\\mcc\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\mcc\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ml\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ml\\__init__.pyi',
+   'DATA'),
+  ('cv2\\motempl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\motempl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\multicalib\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\multicalib\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ocl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ocl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ogl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ogl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\omnidir\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\omnidir\\__init__.pyi',
+   'DATA'),
+  ('cv2\\opencv_videoio_ffmpeg481_64.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\opencv_videoio_ffmpeg481_64.dll',
+   'DATA'),
+  ('cv2\\opencv_videoio_ffmpeg500_64.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\opencv_videoio_ffmpeg500_64.dll',
+   'DATA'),
+  ('cv2\\optflow\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\optflow\\__init__.pyi',
+   'DATA'),
+  ('cv2\\parallel\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\parallel\\__init__.pyi',
+   'DATA'),
+  ('cv2\\phase_unwrapping\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\phase_unwrapping\\__init__.pyi',
+   'DATA'),
+  ('cv2\\plot\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\plot\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ppf_match_3d\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ppf_match_3d\\__init__.pyi',
+   'DATA'),
+  ('cv2\\py.typed',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\py.typed',
+   'DATA'),
+  ('cv2\\quality\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\quality\\__init__.pyi',
+   'DATA'),
+  ('cv2\\rapid\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\rapid\\__init__.pyi',
+   'DATA'),
+  ('cv2\\reg\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\reg\\__init__.pyi',
+   'DATA'),
+  ('cv2\\saliency\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\saliency\\__init__.pyi',
+   'DATA'),
+  ('cv2\\samples\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\samples\\__init__.pyi',
+   'DATA'),
+  ('cv2\\segmentation\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\segmentation\\__init__.pyi',
+   'DATA'),
+  ('cv2\\signal\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\signal\\__init__.pyi',
+   'DATA'),
+  ('cv2\\stereo\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\stereo\\__init__.pyi',
+   'DATA'),
+  ('cv2\\structured_light\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\structured_light\\__init__.pyi',
+   'DATA'),
+  ('cv2\\text\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\text\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\fs\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\fs\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\logging\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\logging\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\nested\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\nested\\__init__.pyi',
+   'DATA'),
+  ('cv2\\videoio_registry\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\videoio_registry\\__init__.pyi',
+   'DATA'),
+  ('cv2\\videostab\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\videostab\\__init__.pyi',
+   'DATA'),
+  ('cv2\\wechat_qrcode\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\wechat_qrcode\\__init__.pyi',
+   'DATA'),
+  ('cv2\\xfeatures2d\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\xfeatures2d\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ximgproc\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ximgproc\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ximgproc\\segmentation\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ximgproc\\segmentation\\__init__.pyi',
+   'DATA'),
+  ('cv2\\xphoto\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\xphoto\\__init__.pyi',
+   'DATA'),
+  ('haarcascade_frontalface_default.xml',
+   'C:\\Users\\Ariel Salubre\\Documents\\Default '
+   'Project\\AttendanceLoggerPro\\haarcascade_frontalface_default.xml',
+   'DATA')],
+ '3.15.0 (tags/v3.15.0:d220409, Oct  9 2026, 11:55:56) [MSC v.1951 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('AttendanceApp',
+   'C:\\Users\\Ariel Salubre\\Documents\\Default '
+   'Project\\AttendanceLoggerPro\\AttendanceApp.py',
+   'PYSOURCE')],
+ [('subprocess',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipfile._path._functools',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\zipfile\\_path\\_functools.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\compression\\zstd\\__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\compression\\zstd\\_zstdfile.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\compression\\_common\\_streams.py',
+   'PYMODULE'),
+  ('compression._common',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\compression\\_common\\__init__.py',
+   'PYMODULE'),
+  ('compression',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\compression\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\struct.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\string\\__init__.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\copy.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\base64.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\socket.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('importlib.metadata._typing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_typing.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._context',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_context.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\typing.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('pathlib._os',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\glob.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ast.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.server',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xmlrpc\\server.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes._layout',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ctypes\\_layout.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data.module_docs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pydoc_data\\module_docs.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.input',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\input.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site.py',
+   'PYMODULE'),
+  ('_pyrepl.main',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\main.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.base_eventqueue',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\base_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_eventqueue',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\windows_eventqueue.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.fancycompleter',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\fancycompleter.py',
+   'PYMODULE'),
+  ('_pyrepl._module_completer',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\_module_completer.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.reader',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\reader.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_pyrepl.layout',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\layout.py',
+   'PYMODULE'),
+  ('_pyrepl.content',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\content.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.render',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\render.py',
+   'PYMODULE'),
+  ('_pyrepl.terminfo',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\terminfo.py',
+   'PYMODULE'),
+  ('_pyrepl.keymap',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pyrepl\\keymap.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\utils.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('_py_warnings',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_py_warnings.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('face_core',
+   'C:\\Users\\Ariel Salubre\\Documents\\Default '
+   'Project\\AttendanceLoggerPro\\face_core.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._conversions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_utils\\_conversions.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('defusedxml.ElementTree',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\ElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.common',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\common.py',
+   'PYMODULE'),
+  ('defusedxml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\__init__.py',
+   'PYMODULE'),
+  ('defusedxml.xmlrpc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\xmlrpc.py',
+   'PYMODULE'),
+  ('defusedxml.sax',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\sax.py',
+   'PYMODULE'),
+  ('defusedxml.minidom',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('defusedxml.pulldom',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\pulldom.py',
+   'PYMODULE'),
+  ('defusedxml.expatreader',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\expatreader.py',
+   'PYMODULE'),
+  ('defusedxml.expatbuilder',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\expatbuilder.py',
+   'PYMODULE'),
+  ('defusedxml.cElementTree',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\defusedxml\\cElementTree.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.graph',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\graph.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.interpreter',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\futures\\interpreter.py',
+   'PYMODULE'),
+  ('concurrent.interpreters',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\interpreters\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._queues',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\interpreters\\_queues.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._crossinterp',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\interpreters\\_crossinterp.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\queue.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\csv.py',
+   'PYMODULE')],
+ [('cv2\\opencv_videoio_ffmpeg481_64.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\opencv_videoio_ffmpeg481_64.dll',
+   'BINARY'),
+  ('cv2\\opencv_videoio_ffmpeg500_64.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\opencv_videoio_ffmpeg500_64.dll',
+   'BINARY'),
+  ('python315.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\python315.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_imagingtk.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_webp.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_avif.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_imagingcms.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_imagingmath.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\PIL\\_imaging.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\cd.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\cd.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\charset_normalizer\\md.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\mtrand.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\bit_generator.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_sfc64.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_philox.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_pcg64.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_mt19937.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_generator.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_common.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp315-win_amd64.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('cv2\\cv2.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\cv2.pyd',
+   'EXTENSION'),
+  ('_tkinter.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\python3.dll',
+   'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
+  ('tcl90.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\tcl90.dll',
+   'BINARY'),
+  ('libtommath.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\libtommath.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\DLLs\\zlib1.dll',
+   'BINARY')],
+ [],
+ [],
+ [('cv2\\Error\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\Error\\__init__.pyi',
+   'DATA'),
+  ('cv2\\LICENSE-3RD-PARTY.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\LICENSE-3RD-PARTY.txt',
+   'DATA'),
+  ('cv2\\LICENSE.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\LICENSE.txt',
+   'DATA'),
+  ('cv2\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\__init__.pyi',
+   'DATA'),
+  ('cv2\\aruco\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\aruco\\__init__.pyi',
+   'DATA'),
+  ('cv2\\barcode\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\barcode\\__init__.pyi',
+   'DATA'),
+  ('cv2\\bgsegm\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\bgsegm\\__init__.pyi',
+   'DATA'),
+  ('cv2\\bioinspired\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\bioinspired\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ccm\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ccm\\__init__.pyi',
+   'DATA'),
+  ('cv2\\colored_kinfu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\colored_kinfu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\cuda\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\cuda\\__init__.pyi',
+   'DATA'),
+  ('cv2\\data\\haarcascade_eye.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_eye.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_eye_tree_eyeglasses.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_eye_tree_eyeglasses.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalcatface.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalcatface.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalcatface_extended.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalcatface_extended.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt2.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt2.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt_tree.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_alt_tree.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_default.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_frontalface_default.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_fullbody.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_fullbody.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_lefteye_2splits.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_lefteye_2splits.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_license_plate_rus_16stages.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_license_plate_rus_16stages.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_lowerbody.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_lowerbody.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_profileface.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_profileface.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_righteye_2splits.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_righteye_2splits.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_russian_plate_number.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_russian_plate_number.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_smile.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_smile.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_upperbody.xml',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\haarcascade_upperbody.xml',
+   'DATA'),
+  ('cv2\\datasets\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\datasets\\__init__.pyi',
+   'DATA'),
+  ('cv2\\detail\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\detail\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dnn\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dnn\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dnn_superres\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dnn_superres\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dpm\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dpm\\__init__.pyi',
+   'DATA'),
+  ('cv2\\dynafu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\dynafu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\face\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\face\\__init__.pyi',
+   'DATA'),
+  ('cv2\\fisheye\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\fisheye\\__init__.pyi',
+   'DATA'),
+  ('cv2\\flann\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\flann\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ft\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ft\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\cpu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\cpu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\fluid\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\fluid\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\core\\ocl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\core\\ocl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ie\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ie\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ie\\detail\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ie\\detail\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\imgproc\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\imgproc\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\imgproc\\fluid\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\imgproc\\fluid\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\oak\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\oak\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\onnx\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\onnx\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\onnx\\ep\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\onnx\\ep\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ot\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ot\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ot\\cpu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ot\\cpu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\ov\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\ov\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\own\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\own\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\own\\detail\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\own\\detail\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\render\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\render\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\render\\ocv\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\render\\ocv\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\streaming\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\streaming\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\video\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\video\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\draw\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\draw\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\gst\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\gst\\__init__.pyi',
+   'DATA'),
+  ('cv2\\gapi\\wip\\onevpl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\wip\\onevpl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\hfs\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\hfs\\__init__.pyi',
+   'DATA'),
+  ('cv2\\img_hash\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\img_hash\\__init__.pyi',
+   'DATA'),
+  ('cv2\\instr\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\instr\\__init__.pyi',
+   'DATA'),
+  ('cv2\\intensity_transform\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\intensity_transform\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ipp\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ipp\\__init__.pyi',
+   'DATA'),
+  ('cv2\\kinfu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\kinfu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\large_kinfu\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\large_kinfu\\__init__.pyi',
+   'DATA'),
+  ('cv2\\legacy\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\legacy\\__init__.pyi',
+   'DATA'),
+  ('cv2\\line_descriptor\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\line_descriptor\\__init__.pyi',
+   'DATA'),
+  ('cv2\\linemod\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\linemod\\__init__.pyi',
+   'DATA'),
+  ('cv2\\mcc\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\mcc\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ml\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ml\\__init__.pyi',
+   'DATA'),
+  ('cv2\\motempl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\motempl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\multicalib\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\multicalib\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ocl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ocl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ogl\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ogl\\__init__.pyi',
+   'DATA'),
+  ('cv2\\omnidir\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\omnidir\\__init__.pyi',
+   'DATA'),
+  ('cv2\\optflow\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\optflow\\__init__.pyi',
+   'DATA'),
+  ('cv2\\parallel\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\parallel\\__init__.pyi',
+   'DATA'),
+  ('cv2\\phase_unwrapping\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\phase_unwrapping\\__init__.pyi',
+   'DATA'),
+  ('cv2\\plot\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\plot\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ppf_match_3d\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ppf_match_3d\\__init__.pyi',
+   'DATA'),
+  ('cv2\\py.typed',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\py.typed',
+   'DATA'),
+  ('cv2\\quality\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\quality\\__init__.pyi',
+   'DATA'),
+  ('cv2\\rapid\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\rapid\\__init__.pyi',
+   'DATA'),
+  ('cv2\\reg\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\reg\\__init__.pyi',
+   'DATA'),
+  ('cv2\\saliency\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\saliency\\__init__.pyi',
+   'DATA'),
+  ('cv2\\samples\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\samples\\__init__.pyi',
+   'DATA'),
+  ('cv2\\segmentation\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\segmentation\\__init__.pyi',
+   'DATA'),
+  ('cv2\\signal\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\signal\\__init__.pyi',
+   'DATA'),
+  ('cv2\\stereo\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\stereo\\__init__.pyi',
+   'DATA'),
+  ('cv2\\structured_light\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\structured_light\\__init__.pyi',
+   'DATA'),
+  ('cv2\\text\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\text\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\fs\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\fs\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\logging\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\logging\\__init__.pyi',
+   'DATA'),
+  ('cv2\\utils\\nested\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\nested\\__init__.pyi',
+   'DATA'),
+  ('cv2\\videoio_registry\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\videoio_registry\\__init__.pyi',
+   'DATA'),
+  ('cv2\\videostab\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\videostab\\__init__.pyi',
+   'DATA'),
+  ('cv2\\wechat_qrcode\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\wechat_qrcode\\__init__.pyi',
+   'DATA'),
+  ('cv2\\xfeatures2d\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\xfeatures2d\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ximgproc\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ximgproc\\__init__.pyi',
+   'DATA'),
+  ('cv2\\ximgproc\\segmentation\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\ximgproc\\segmentation\\__init__.pyi',
+   'DATA'),
+  ('cv2\\xphoto\\__init__.pyi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\xphoto\\__init__.pyi',
+   'DATA'),
+  ('haarcascade_frontalface_default.xml',
+   'C:\\Users\\Ariel Salubre\\Documents\\Default '
+   'Project\\AttendanceLoggerPro\\haarcascade_frontalface_default.xml',
+   'DATA'),
+  ('cv2\\config.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\config.py',
+   'DATA'),
+  ('cv2\\load_config_py3.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\load_config_py3.py',
+   'DATA'),
+  ('cv2\\config-3.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\config-3.py',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\RECORD',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\METADATA',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\DELVEWHEEL',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\INSTALLER',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\REQUESTED',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\REQUESTED',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\WHEEL',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\entry_points.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'DATA'),
+  ('cv2\\__init__.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\__init__.py',
+   'DATA'),
+  ('cv2\\version.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\version.py',
+   'DATA'),
+  ('cv2\\utils\\__init__.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\__init__.py',
+   'DATA'),
+  ('cv2\\typing\\__init__.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\typing\\__init__.py',
+   'DATA'),
+  ('cv2\\misc\\version.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\misc\\version.py',
+   'DATA'),
+  ('cv2\\misc\\__init__.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\misc\\__init__.py',
+   'DATA'),
+  ('cv2\\mat_wrapper\\__init__.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\mat_wrapper\\__init__.py',
+   'DATA'),
+  ('cv2\\gapi\\__init__.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\__init__.py',
+   'DATA'),
+  ('cv2\\data\\__init__.py',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\__init__.py',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Ariel Salubre\\Documents\\Default '
+   'Project\\AttendanceLoggerPro\\build\\AttendanceLoggerPro\\base_library.zip',
+   'DATA')],
+ [('stat',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\stat.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\codecs.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\operator.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\types.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\traceback.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\enum.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\io.py',
+   'PYMODULE'),
+  ('encodings.zlib_codec',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\zlib_codec.py',
+   'PYMODULE'),
+  ('encodings.uu_codec',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\uu_codec.py',
+   'PYMODULE'),
+  ('encodings.utf_8_sig',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_8_sig.py',
+   'PYMODULE'),
+  ('encodings.utf_8',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_8.py',
+   'PYMODULE'),
+  ('encodings.utf_7',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_7.py',
+   'PYMODULE'),
+  ('encodings.utf_32_le',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_32_le.py',
+   'PYMODULE'),
+  ('encodings.utf_32_be',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_32_be.py',
+   'PYMODULE'),
+  ('encodings.utf_32',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_32.py',
+   'PYMODULE'),
+  ('encodings.utf_16_le',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_16_le.py',
+   'PYMODULE'),
+  ('encodings.utf_16_be',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_16_be.py',
+   'PYMODULE'),
+  ('encodings.utf_16',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\utf_16.py',
+   'PYMODULE'),
+  ('encodings.unicode_escape',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.undefined',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\undefined.py',
+   'PYMODULE'),
+  ('encodings.tis_620',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\tis_620.py',
+   'PYMODULE'),
+  ('encodings.shift_jisx0213',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\shift_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.shift_jis_2004',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\shift_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.shift_jis',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\shift_jis.py',
+   'PYMODULE'),
+  ('encodings.rot_13',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\rot_13.py',
+   'PYMODULE'),
+  ('encodings.raw_unicode_escape',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\raw_unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.quopri_codec',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\quopri_codec.py',
+   'PYMODULE'),
+  ('encodings.punycode',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\punycode.py',
+   'PYMODULE'),
+  ('encodings.ptcp154',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\ptcp154.py',
+   'PYMODULE'),
+  ('encodings.palmos',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\palmos.py',
+   'PYMODULE'),
+  ('encodings.oem',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\oem.py',
+   'PYMODULE'),
+  ('encodings.mbcs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mbcs.py',
+   'PYMODULE'),
+  ('encodings.mac_turkish',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_turkish.py',
+   'PYMODULE'),
+  ('encodings.mac_romanian',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_romanian.py',
+   'PYMODULE'),
+  ('encodings.mac_roman',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_roman.py',
+   'PYMODULE'),
+  ('encodings.mac_latin2',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_latin2.py',
+   'PYMODULE'),
+  ('encodings.mac_iceland',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_iceland.py',
+   'PYMODULE'),
+  ('encodings.mac_greek',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_greek.py',
+   'PYMODULE'),
+  ('encodings.mac_farsi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_farsi.py',
+   'PYMODULE'),
+  ('encodings.mac_cyrillic',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_cyrillic.py',
+   'PYMODULE'),
+  ('encodings.mac_croatian',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_croatian.py',
+   'PYMODULE'),
+  ('encodings.mac_arabic',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\mac_arabic.py',
+   'PYMODULE'),
+  ('encodings.latin_1',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\latin_1.py',
+   'PYMODULE'),
+  ('encodings.kz1048',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\kz1048.py',
+   'PYMODULE'),
+  ('encodings.koi8_u',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\koi8_u.py',
+   'PYMODULE'),
+  ('encodings.koi8_t',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\koi8_t.py',
+   'PYMODULE'),
+  ('encodings.koi8_r',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\koi8_r.py',
+   'PYMODULE'),
+  ('encodings.johab',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\johab.py',
+   'PYMODULE'),
+  ('encodings.iso8859_9',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_9.py',
+   'PYMODULE'),
+  ('encodings.iso8859_8',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_8.py',
+   'PYMODULE'),
+  ('encodings.iso8859_7',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_7.py',
+   'PYMODULE'),
+  ('encodings.iso8859_6',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_6.py',
+   'PYMODULE'),
+  ('encodings.iso8859_5',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_5.py',
+   'PYMODULE'),
+  ('encodings.iso8859_4',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_4.py',
+   'PYMODULE'),
+  ('encodings.iso8859_3',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_3.py',
+   'PYMODULE'),
+  ('encodings.iso8859_2',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_2.py',
+   'PYMODULE'),
+  ('encodings.iso8859_16',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_16.py',
+   'PYMODULE'),
+  ('encodings.iso8859_15',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_15.py',
+   'PYMODULE'),
+  ('encodings.iso8859_14',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_14.py',
+   'PYMODULE'),
+  ('encodings.iso8859_13',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_13.py',
+   'PYMODULE'),
+  ('encodings.iso8859_11',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_11.py',
+   'PYMODULE'),
+  ('encodings.iso8859_10',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_10.py',
+   'PYMODULE'),
+  ('encodings.iso8859_1',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso8859_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_kr',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso2022_kr.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_ext',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso2022_jp_ext.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_3',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso2022_jp_3.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2004',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso2022_jp_2004.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso2022_jp_2.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_1',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso2022_jp_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\iso2022_jp.py',
+   'PYMODULE'),
+  ('encodings.idna',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\idna.py',
+   'PYMODULE'),
+  ('encodings.hz',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\hz.py',
+   'PYMODULE'),
+  ('encodings.hp_roman8',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\hp_roman8.py',
+   'PYMODULE'),
+  ('encodings.hex_codec',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\hex_codec.py',
+   'PYMODULE'),
+  ('encodings.gbk',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\gbk.py',
+   'PYMODULE'),
+  ('encodings.gb2312',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\gb2312.py',
+   'PYMODULE'),
+  ('encodings.gb18030',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\gb18030.py',
+   'PYMODULE'),
+  ('encodings.euc_kr',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\euc_kr.py',
+   'PYMODULE'),
+  ('encodings.euc_jp',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\euc_jp.py',
+   'PYMODULE'),
+  ('encodings.euc_jisx0213',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\euc_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.euc_jis_2004',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\euc_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.cp950',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp950.py',
+   'PYMODULE'),
+  ('encodings.cp949',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp949.py',
+   'PYMODULE'),
+  ('encodings.cp932',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp932.py',
+   'PYMODULE'),
+  ('encodings.cp875',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp875.py',
+   'PYMODULE'),
+  ('encodings.cp874',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp874.py',
+   'PYMODULE'),
+  ('encodings.cp869',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp869.py',
+   'PYMODULE'),
+  ('encodings.cp866',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp866.py',
+   'PYMODULE'),
+  ('encodings.cp865',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp865.py',
+   'PYMODULE'),
+  ('encodings.cp864',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp864.py',
+   'PYMODULE'),
+  ('encodings.cp863',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp863.py',
+   'PYMODULE'),
+  ('encodings.cp862',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp862.py',
+   'PYMODULE'),
+  ('encodings.cp861',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp861.py',
+   'PYMODULE'),
+  ('encodings.cp860',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp860.py',
+   'PYMODULE'),
+  ('encodings.cp858',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp858.py',
+   'PYMODULE'),
+  ('encodings.cp857',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp857.py',
+   'PYMODULE'),
+  ('encodings.cp856',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp856.py',
+   'PYMODULE'),
+  ('encodings.cp855',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp855.py',
+   'PYMODULE'),
+  ('encodings.cp852',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp852.py',
+   'PYMODULE'),
+  ('encodings.cp850',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp850.py',
+   'PYMODULE'),
+  ('encodings.cp775',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp775.py',
+   'PYMODULE'),
+  ('encodings.cp737',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp737.py',
+   'PYMODULE'),
+  ('encodings.cp720',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp720.py',
+   'PYMODULE'),
+  ('encodings.cp500',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp500.py',
+   'PYMODULE'),
+  ('encodings.cp437',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp437.py',
+   'PYMODULE'),
+  ('encodings.cp424',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp424.py',
+   'PYMODULE'),
+  ('encodings.cp273',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp273.py',
+   'PYMODULE'),
+  ('encodings.cp1258',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1258.py',
+   'PYMODULE'),
+  ('encodings.cp1257',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1257.py',
+   'PYMODULE'),
+  ('encodings.cp1256',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1256.py',
+   'PYMODULE'),
+  ('encodings.cp1255',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1255.py',
+   'PYMODULE'),
+  ('encodings.cp1254',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1254.py',
+   'PYMODULE'),
+  ('encodings.cp1253',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1253.py',
+   'PYMODULE'),
+  ('encodings.cp1252',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1252.py',
+   'PYMODULE'),
+  ('encodings.cp1251',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1251.py',
+   'PYMODULE'),
+  ('encodings.cp1250',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1250.py',
+   'PYMODULE'),
+  ('encodings.cp1140',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1140.py',
+   'PYMODULE'),
+  ('encodings.cp1125',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1125.py',
+   'PYMODULE'),
+  ('encodings.cp1026',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1026.py',
+   'PYMODULE'),
+  ('encodings.cp1006',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp1006.py',
+   'PYMODULE'),
+  ('encodings.cp037',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\cp037.py',
+   'PYMODULE'),
+  ('encodings.charmap',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\charmap.py',
+   'PYMODULE'),
+  ('encodings.bz2_codec',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\bz2_codec.py',
+   'PYMODULE'),
+  ('encodings.big5hkscs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\big5hkscs.py',
+   'PYMODULE'),
+  ('encodings.big5',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\big5.py',
+   'PYMODULE'),
+  ('encodings.base64_codec',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\base64_codec.py',
+   'PYMODULE'),
+  ('encodings.ascii',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\ascii.py',
+   'PYMODULE'),
+  ('encodings.aliases',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\aliases.py',
+   'PYMODULE'),
+  ('encodings._win_cp_codecs',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\_win_cp_codecs.py',
+   'PYMODULE'),
+  ('encodings',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\encodings\\__init__.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\locale.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\functools.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\abc.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('cv2',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\__init__.py',
+   'PYMODULE'),
+  ('cv2.version',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\version.py',
+   'PYMODULE'),
+  ('cv2.utils',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\utils\\__init__.py',
+   'PYMODULE'),
+  ('cv2.typing',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\typing\\__init__.py',
+   'PYMODULE'),
+  ('cv2.dnn', '-', 'PYMODULE'),
+  ('cv2.gapi.wip.draw', '-', 'PYMODULE'),
+  ('cv2.gapi.wip', '-', 'PYMODULE'),
+  ('cv2.misc.version',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\misc\\version.py',
+   'PYMODULE'),
+  ('cv2.misc',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\misc\\__init__.py',
+   'PYMODULE'),
+  ('cv2.mat_wrapper',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\mat_wrapper\\__init__.py',
+   'PYMODULE'),
+  ('cv2.gapi',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\gapi\\__init__.py',
+   'PYMODULE'),
+  ('cv2.data',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\data\\__init__.py',
+   'PYMODULE'),
+  ('cv2.config-3',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\config-3.py',
+   'PYMODULE'),
+  ('cv2.config',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\config.py',
+   'PYMODULE'),
+  ('cv2.load_config_py3',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\site-packages\\cv2\\load_config_py3.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Ariel '
+   'Salubre\\AppData\\Local\\Python\\pythoncore-3.15-64\\Lib\\os.py',
+   'PYMODULE')])
